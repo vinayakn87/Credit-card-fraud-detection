@@ -7,6 +7,7 @@ Following three methods have been illustrated to explore this:
 1. Traditional ML models which try to which minimize misclassification (Using Logistic regression and Random forest algorithms)
 2. Cost sensitive classification using Bayes minimum risk classifier
 3. Threshold optimization to minimize costs<br>
+
 The approaches 2 and 3 are illustrate two ways of dealing with class imbalance in machine learning problems.
 
 ## Results & outcome
