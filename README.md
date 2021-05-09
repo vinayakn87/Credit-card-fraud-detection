@@ -11,7 +11,7 @@ Following three methods have been illustrated to explore this:
 The approaches 2 and 3 illustrate two ways of dealing with class imbalance in machine learning problems.
 
 ## Results & outcome
-We see that the Random forest classifer with threshold optimization gives us the best result. We are able to achieve cost savings of 81% using a threshold of 0.0408. It is worth noting that the models which give the most cost savings are not necessarily the ones with best F1-score indicating that we have allowed for higher misclassification in order to achieve the best financial outcome.
+We see that the **Random forest classifer with threshold optimization** gives us the best result. We are able to achieve **cost savings of 81% using a threshold of 0.0408**. It is worth noting that the models which give the most cost savings are not necessarily the ones with best F1-score indicating that we have allowed for higher misclassification in order to achieve the best financial outcome.
 
 |Model version|f1 score|Cost savings|
 |-------------|--------|------------|
