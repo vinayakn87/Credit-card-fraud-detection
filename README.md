@@ -14,9 +14,9 @@ We see that the Random forest classifer with threshold optimization gives us the
 
 |Model version|f1 score|Cost savings|
 |-------------|--------|------------|
-|Logistic regression|||
-|Random forest classifier|||
-|Logistic regression with Bayes minimum risk classifier|||
-|Random forest with Bayes minimum risk classifier|||
-|Logistic regression with threshold optimization|||
-|Random forest with threshold optimization|||
+|Logistic regression|0.683230	|37%|
+|Random forest classifier|0.842697|76%|
+|Logistic regression with Bayes minimum risk classifier|0.485207|77%|
+|Random forest with Bayes minimum risk classifier|0.216346|71%|
+|Logistic regression with threshold optimization|0.776699	|79%|
+|Random forest with threshold optimization|0.650980|81%|
